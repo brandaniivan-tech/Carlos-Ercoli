@@ -1,0 +1,6 @@
+{
+  "name": "Carlos Ercoli - Plomero y Gasista",
+  "description": "Landing page profesional para Carlos Ercoli, Plomero y Gasista Matriculado con más de 30 años de experiencia, optimizada para WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
